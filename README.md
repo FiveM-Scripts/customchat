@@ -8,7 +8,7 @@
 * Replaced "CHAT" text next to chat input box with player's name
 * Messages that only contain whitespace can't be send anymore
 
-[Screenshot](http://i.imgur.com/fbiT3iN.png)
+![Screenshot](http://i.imgur.com/fbiT3iN.png)
 
 **Installation:**
 Name the resource "customchat" (!) and put it in your resources folder. Also make sure to stop the original chat resource before starting this one!
